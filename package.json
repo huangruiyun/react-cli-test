@@ -28,7 +28,7 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^3.0.1",
-    "handlebars": "^4.3.1",
+    "handlebars": "^4.5.3",
     "metalsmith": "^2.3.0"
   }
 }
